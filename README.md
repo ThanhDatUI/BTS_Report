@@ -1,7 +1,6 @@
 HÌNH ẢNH THUỘC TẬP ĐOÀN VIỄN THÔNG QUÂN ĐỘI, KHÔNG PHÁT TÁN CHIA SẼ DƯỚI MỌI HÌNH THỨC, CHỈ MANG TÍNH CHẤT THAM KHẢO
  # Báo cáo Tập sự nghề nghiệp
-![BTS](img
-/z7623666728148_cf82afe41518a055b9a66dcbbbe34e4e.jpg)
+![BTS](img/z7623666728148_cf82afe41518a055b9a66dcbbbe34e4e.jpg)
 ## Đề tài
 **Tìm hiểu và thực tập công tác vận hành, bảo dưỡng và đảm bảo an toàn cho trạm BTS**
 
