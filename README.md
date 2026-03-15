@@ -25,7 +25,7 @@ Báo cáo tập trung vào việc tìm hiểu cấu trúc, nguyên lý hoạt đ
 - **Họ tên**: Phan Thành Đạt  
 - **MSSV**: 42100168  
 - **Lớp**: 21040202  
-- **Giáo viên hướng dẫn**: TS. Trần Thanh Phương  
+- **Giảng viên hướng dẫn**: TS. Trần Thanh Phương  
 - **Cán bộ hướng dẫn tại doanh nghiệp**: Bùi Đình Trị  
 
 ## Thời gian
